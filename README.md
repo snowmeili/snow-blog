@@ -25,4 +25,4 @@
 
 
 ## 脚手架模板
-1.[webpack5-react-ts](git@github.com:snowmeili/snow-react-ts-template.git)
+1.[snow-react-ts-template](git@github.com:snowmeili/snow-react-ts-template.git)
